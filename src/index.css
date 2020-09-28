@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div #jeopardy_answer button {
+  width: 150px;
+  align-items: center;
+}
